@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+ENV/
+
+# Models
+*.pkl
+*.h5
+*.joblib
+*.pth
+
+# Data (optional - only if too large)
+# /data/raw/
+# /data/processed/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+.AppleDouble
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*/.ipynb_checkpoints
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.backup
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+
+# Distribution
+dist/
+build/
+*.egg-info/
