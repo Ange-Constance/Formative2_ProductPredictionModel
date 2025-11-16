@@ -8,7 +8,6 @@ env/
 ENV/
 
 # Models
-*.pkl
 *.h5
 *.joblib
 *.pth
